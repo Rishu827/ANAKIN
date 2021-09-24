@@ -5,7 +5,7 @@ import os
 
 ''' 
 running command from terminal -
-python coordinateSuggester.py filename filepath
+python coordinatesFinder.py filename filepath
     filename : required : name of html/text file that contains the source code
     filepath : optional : path to the file, if not then it will look for the file in existing directory
 '''
