@@ -10,6 +10,13 @@ python coordinatesFinder.py filename filepath
     filepath : optional : path to the file, if not then it will look for the file in existing directory
 '''
 
+'''
+For entire planet - 
+    Latitude can have maximum of 2 digits before decimal
+    Longitude can have maximum of 3 digits before decimal
+'''
+
+
 latlng_regex = "\"latitude\":-{0,1}\d{1,2}\.\d\d+,\"longitude\":-{0,1}\d{1,3}\.\d\d+"
 latlng_regex = re.compile("(?i)"+latlng_regex)
 
