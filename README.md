@@ -4,7 +4,7 @@
 
 2. Just run the following command - 
     ```
-    ## python coordinatesFinder.py filename filepath
+    python coordinatesFinder.py filename filepath
     ```
       >filename : required : name of html/text file that contains the source code of the webpage
       >filepath : optional : path to the file, if not then it will look for the file in existing directory
@@ -17,5 +17,5 @@
 
 6. Python script basic moodules, but if facing any trouble, one can run the following command - 
     ```
-    ## pip install -r requirements.txt 
+    pip install -r requirements.txt 
     ```
