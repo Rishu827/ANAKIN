@@ -1,6 +1,6 @@
 # ANAKIN
 
-1. It was required to get the latitude and longitude, so I have written a pythin script that performs this task.
+1. It was required to get the latitude and longitude, so I have written a python script that performs this task.
 
 2. Just run the following command - 
 
